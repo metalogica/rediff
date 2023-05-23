@@ -15,7 +15,9 @@ Make Retool™ diffs easier to read.
   * Navigate to your VS Code settings (`CMD + ,` on Mac OS X).
   * Search for `rediff` in the settings search bar.
   * Enter the path to your Retool™ directory.
-![](https://res.cloudinary.com/dtmuylvrr/image/upload/v1684867962/rediff-settings.png)
+
+![](https://res.cloudinary.com/dtmuylvrr/image/upload/c_scale,w_720/v1684867962/rediff-settings.png)
+
 * Load a diff:
   * Open the command palettte (`CMD + SHIFT + P` on Mac OS X).
   * Search for the command `Rediff: Load Git Branch`
@@ -31,5 +33,3 @@ This extension contributes the following settings:
 Pre-release.
 
 ---
-
-**Enjoy!**
